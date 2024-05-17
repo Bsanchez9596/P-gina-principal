@@ -1,3 +1,3 @@
-# P-gina-principal
+# Pagina-principal
 
 Pagina principal novosport
